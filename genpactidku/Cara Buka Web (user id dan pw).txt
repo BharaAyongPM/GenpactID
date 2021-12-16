@@ -1,0 +1,16 @@
+Selamat Datang Di website Sederhana Kami 
+Kelompok C Web Programing kelas 15.3A.31
+
+Anggota
+1. Bhara Ayong PM
+2. Alfhi Aryansyah
+3. M. Rizky Andrianto
+
+Letakan Folder Genpactidku di dalam Htdoc
+file pertama dibuka adalah Login.php
+User Dan Password Login adalah
+
+User :member
+Pass :member12345
+
+TERIMAKASIH
